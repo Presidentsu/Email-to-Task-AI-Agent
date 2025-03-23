@@ -22,7 +22,7 @@ This is a local, privacy-respecting AI assistant that scans your Outlook emails,
 ### 1. Clone or Download the Script
 
 ```bash
-git clone https://github.com/yourusername/agentic-ai-task-assistant.git
+git clone https://github.com/Presidentsu/<tbf>
 cd agentic-ai-task-assistant
 ```
 

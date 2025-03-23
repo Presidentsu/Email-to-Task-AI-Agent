@@ -111,3 +111,13 @@ According to [Google AI Terms](https://ai.google.dev/terms):
 
 This assistant is designed to maximize privacy and local-first processing while giving you the power of Gemini AI.
 
+### Making this an Executable
+
+This script can be converted to exe using pyinstaller package
+
+```bash
+pip install pyinstaller
+pyinstaller .\agentic_ai.py
+```
+
+This will go further updates based on feed back so feel free to provide your inputs, and best lets collaborate. <3
